@@ -1,6 +1,15 @@
+@import url(https://fonts.google.com/specimen/Oleo+Script+Swash+Caps?selection.family=Lato:300i);
+
 $body-bg:   #999;
 $navbar-default-bg: #2c3e50;
 $navbar-default-link-color:  white;
 $navbar-default-link-hover-color:  gray;
 
 @import 'bootstrap';
+
+.center{
+  text-align: center;
+}
+.navbar-brand{
+  font-weight: bold;
+}
