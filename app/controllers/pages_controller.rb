@@ -2,6 +2,6 @@ class PagesController < ApplicationController
   def home
   end
   def home1
-    p "hello "
+    p "hello"
   end
 end
