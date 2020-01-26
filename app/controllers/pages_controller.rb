@@ -4,6 +4,7 @@ class PagesController < ApplicationController
   def home1
     p "hello"
     p "haiii"
+    p "bvhbfgvfvgf"
   end
 
   def home2
